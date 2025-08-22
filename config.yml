@@ -1,5 +1,5 @@
-title: PaperModX Example Site
-baseURL: "https://github.io/ataraxxis/workshops/"
+title: Miniatur Malworkshops Deutschland
+baseURL: "https://ataraxxis.github.io/workshops/"
 theme: PaperModX
 
 enableRobotsTXT: true
@@ -36,34 +36,26 @@ params:
   ShowPostNavLinks: false
   Email: info@ruhrartminiatures.com
 
-  socialIcons:
-    - name: github-simple
-      url: "https://github.com/reorx"
-    - name: twitter-simple
-      url: "https://twitter.com/novoreorx"
-    - name: telegram-simple
-      url: "https://t.me/reorx_share"
-    - name: rss-simple
-      url: "feed.xml"
-    - name: gmail
-      url: email
+  #socialIcons:
+  #  - name: github-simple
+  #    url: "https://github.com/reorx"
+  #  - name: twitter-simple
+  #    url: "https://twitter.com/novoreorx"
+  #  - name: telegram-simple
+  #    url: "https://t.me/reorx_share"
+  #  - name: rss-simple
+  #    url: "feed.xml"
+  #  - name: gmail
+  #    url: email
 
-  socialAccounts:
-    twitter:
-      username: novoreorx
+  #socialAccounts:
+  #  twitter:
+  #    username: novoreorx
 
   homeInfoParams:
-    Title: "Workshops"
+    Title: "Miniatur Malworkshops Deutschland"
     Content: |
-      Welcome to demo of hugo's theme PaperModX.
-
-      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
-
-      To get started, please head to the [Docs](docs).
-
-      To see examples of different contents, head to [examples tag](tags/example).
+      Hier findet ihr eine Übersicht über Malworkshops in Deutschland
 
   #commentSystems:
   #  disqus:

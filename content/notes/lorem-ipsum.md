@@ -1,9 +1,11 @@
 ---
-title: A Note of Lorem Ipsum
-date: 2023-01-27T00:15:38+08:00
+title: Roskothen Malworkshop Duisburg
+date: 2025-09-06T00:11:00+01:00
 draft: false
 tags:
-  - lorem
+  - NRW
+  - Anfänger
+  - Fortgeschritten
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Me non paenitet nullum festiviorem excogitasse ad hoc. Ambitioni dedisse scripsisse iudicaretur. Unam incolunt Belgae, aliam Aquitani, tertiam. Morbi fringilla convallis sapien, id pulvinar odio volutpat. A communi observantia non est recedendum.

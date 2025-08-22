@@ -1,19 +1,20 @@
 title: PaperModX Example Site
-baseURL: "https://reorx.github.io/papermodx-example/"
+baseURL: "https://github.io/ataraxxis/workshops/"
 theme: PaperModX
 
 enableRobotsTXT: true
 enableEmoji: true
 
 params:
-  description: "PaperModX Example Site description"
-  author: Reorx
+  description: "Miniatur Malworkshops Deutschland"
+  author: Jonas Doese
   images:
     - cover.png
   favicon: favicon.ico
   #logo:
   #  icon: images/logo.svg
-  DateFormat: "2006-01-02"
+  #DateFormat: "2006-01-02"
+  DateFormat: "2 Jan 2006"
   useCustomAnalytics: true
   mainSections:
     - posts
@@ -21,19 +22,19 @@ params:
 
   # theme params
   DisableLanguageSwitch: true
-  TocOpen: true
+  TocOpen: false
   TocSide: right
   EnableInstantClick: false
   EnableImageZoom: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShareButtons:
     - twitter
     - telegram
-  ShowReadingTime: true
-  ShowWordCount: true
-  ShowCodeCopyButtons: true
-  ShowPostNavLinks: true
-  Email: hello@example.com
+  ShowReadingTime: false
+  ShowWordCount: false
+  ShowCodeCopyButtons: false
+  ShowPostNavLinks: false
+  Email: info@ruhrartminiatures.com
 
   socialIcons:
     - name: github-simple
@@ -52,7 +53,7 @@ params:
       username: novoreorx
 
   homeInfoParams:
-    Title: "PaperModX"
+    Title: "Workshops"
     Content: |
       Welcome to demo of hugo's theme PaperModX.
 
